@@ -153,8 +153,8 @@ class PTTCrawler:
 
 # 使用範例
 config = CrawlerConfig(
-    ptt_id='IrohaKazama',
-    ptt_pwd='eh586421973',
+    ptt_id='ID',
+    ptt_pwd='PW',
     board_name="Stock",
     file_name="ptt_data.xlsx"
 )
